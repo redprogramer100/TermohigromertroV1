@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JOSE LUIS TARQUI\\Documents\\Proyecto de grado\\termohigrometroMHB-382SD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0BE505-899C-4A5D-BB64-8045C1FA07E0}|termohigrometroMHB-382SD.csproj|C:\\Users\\JOSE LUIS TARQUI\\Documents\\Proyecto de grado\\termohigrometroMHB-382SD\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0BE505-899C-4A5D-BB64-8045C1FA07E0}|termohigrometroMHB-382SD.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0BE505-899C-4A5D-BB64-8045C1FA07E0}|termohigrometroMHB-382SD.csproj|c:\\users\\jose luis tarqui\\documents\\proyecto de grado\\termohigrometromhb-382sd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C0BE505-899C-4A5D-BB64-8045C1FA07E0}|termohigrometroMHB-382SD.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0BE505-899C-4A5D-BB64-8045C1FA07E0}|termohigrometroMHB-382SD.csproj|C:\\Users\\JOSE LUIS TARQUI\\Documents\\Proyecto de grado\\termohigrometroMHB-382SD\\graf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C0BE505-899C-4A5D-BB64-8045C1FA07E0}|termohigrometroMHB-382SD.csproj|solutionrelative:graf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0BE505-899C-4A5D-BB64-8045C1FA07E0}|termohigrometroMHB-382SD.csproj|C:\\Users\\JOSE LUIS TARQUI\\Documents\\Proyecto de grado\\termohigrometroMHB-382SD\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C0BE505-899C-4A5D-BB64-8045C1FA07E0}|termohigrometroMHB-382SD.csproj|solutionrelative:config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0BE505-899C-4A5D-BB64-8045C1FA07E0}|termohigrometroMHB-382SD.csproj|C:\\Users\\JOSE LUIS TARQUI\\Documents\\Proyecto de grado\\termohigrometroMHB-382SD\\graf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0BE505-899C-4A5D-BB64-8045C1FA07E0}|termohigrometroMHB-382SD.csproj|solutionrelative:graf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0BE505-899C-4A5D-BB64-8045C1FA07E0}|termohigrometroMHB-382SD.csproj|C:\\Users\\JOSE LUIS TARQUI\\Documents\\Proyecto de grado\\termohigrometroMHB-382SD\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0BE505-899C-4A5D-BB64-8045C1FA07E0}|termohigrometroMHB-382SD.csproj|solutionrelative:config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "config.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JOSE LUIS TARQUI\\Documents\\Proyecto de grado\\termohigrometroMHB-382SD\\config.cs",
+              "RelativeDocumentMoniker": "config.cs",
+              "ToolTip": "C:\\Users\\JOSE LUIS TARQUI\\Documents\\Proyecto de grado\\termohigrometroMHB-382SD\\config.cs [Dise\u00F1o]",
+              "RelativeToolTip": "config.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T05:14:19.703Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\JOSE LUIS TARQUI\\Documents\\Proyecto de grado\\termohigrometroMHB-382SD\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\JOSE LUIS TARQUI\\Documents\\Proyecto de grado\\termohigrometroMHB-382SD\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAANYBAAAAAAAAAAAswOMBAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T15:21:04.404Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "graf.cs",
+              "DocumentMoniker": "C:\\Users\\JOSE LUIS TARQUI\\Documents\\Proyecto de grado\\termohigrometroMHB-382SD\\graf.cs",
+              "RelativeDocumentMoniker": "graf.cs",
+              "ToolTip": "C:\\Users\\JOSE LUIS TARQUI\\Documents\\Proyecto de grado\\termohigrometroMHB-382SD\\graf.cs",
+              "RelativeToolTip": "graf.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAjwIMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T06:04:59.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "graf.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JOSE LUIS TARQUI\\Documents\\Proyecto de grado\\termohigrometroMHB-382SD\\graf.cs",
+              "RelativeDocumentMoniker": "graf.cs",
+              "ToolTip": "C:\\Users\\JOSE LUIS TARQUI\\Documents\\Proyecto de grado\\termohigrometroMHB-382SD\\graf.cs [Dise\u00F1o]",
+              "RelativeToolTip": "graf.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T06:03:18.921Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "config.cs",
+              "DocumentMoniker": "C:\\Users\\JOSE LUIS TARQUI\\Documents\\Proyecto de grado\\termohigrometroMHB-382SD\\config.cs",
+              "RelativeDocumentMoniker": "config.cs",
+              "ToolTip": "C:\\Users\\JOSE LUIS TARQUI\\Documents\\Proyecto de grado\\termohigrometroMHB-382SD\\config.cs",
+              "RelativeToolTip": "config.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAowH8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T05:50:24.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JOSE LUIS TARQUI\\Documents\\Proyecto de grado\\termohigrometroMHB-382SD\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\JOSE LUIS TARQUI\\Documents\\Proyecto de grado\\termohigrometroMHB-382SD\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T15:14:28.313Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gcabrera.DOM\\Desktop\\Proyecto de grado\\termohigrometroMHB-382SD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0BE505-899C-4A5D-BB64-8045C1FA07E0}|termohigrometroMHB-382SD.csproj|c:\\users\\gcabrera.dom\\desktop\\proyecto de grado\\termohigrometromhb-382sd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0BE505-899C-4A5D-BB64-8045C1FA07E0}|termohigrometroMHB-382SD.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0BE505-899C-4A5D-BB64-8045C1FA07E0}|termohigrometroMHB-382SD.csproj|c:\\users\\gcabrera.dom\\desktop\\proyecto de grado\\termohigrometromhb-382sd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C0BE505-899C-4A5D-BB64-8045C1FA07E0}|termohigrometroMHB-382SD.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\gcabrera.DOM\\Desktop\\Proyecto de grado\\termohigrometroMHB-382SD\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\gcabrera.DOM\\Desktop\\Proyecto de grado\\termohigrometroMHB-382SD\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAuwLAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T14:00:18.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\gcabrera.DOM\\Desktop\\Proyecto de grado\\termohigrometroMHB-382SD\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\gcabrera.DOM\\Desktop\\Proyecto de grado\\termohigrometroMHB-382SD\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T14:00:05.412Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
